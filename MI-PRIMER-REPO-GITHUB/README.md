@@ -10,3 +10,7 @@ Este es un test de GitHub con VS Code.
 
 ## Estado
 ✅ Prueba completada - Sistema funcionando correctamente
+## Campos Personalizados Agregados
+- [x] Email personalizado
+- [x] Teléfono adicional
+- [x] Notas internas
